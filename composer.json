@@ -1,0 +1,17 @@
+{
+  "name": "phpdemo",
+  "description": "php demo",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "kim",
+      "email": "kim.kao@eitc.com.tw"
+    }
+  ],
+  "require": {
+    "phar-io/manifest": "1.0.x-dev",
+    "phpunit/phpunit": "6.0.x-dev",
+    "phpunit/phpunit-mock-objects": "3.4.2"
+  }
+}
